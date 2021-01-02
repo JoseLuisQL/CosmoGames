@@ -27,7 +27,7 @@ Nuestro perfil y opciones a funcionalidades estará al lado superior derecho des
 
 ![](https://raw.githubusercontent.com/JoseLuisQL/pictors/main/USUARIO.png)
 
-En este apartado se podrá realizar diferentes funciones como ver los pedidos pendientes, historial, soporte técnico si por alguna razón tengamos problemas durante el proceso de compra, y una opción para poder modificar nuestros datos. También en la parte inferior abra un botón para ir directamente a la cesta o carrito y realizar el proceso de pago. 
+En este apartado se podrá realizar diferentes funciones como ver los pedidos pendientes, historial, soporte técnico si por alguna razón tengamos problemas durante el proceso de compra, y una opción para poder modificar nuestros datos. También en la parte inferior habrá un botón para ir directamente a la cesta o carrito y realizar el proceso de pago. 
  
 ## Perfil en el index (Administrador)
 El perfil del administrador solo saldrá si eres administrador de la web. El administrador podrá crear tanto como productos los cuales se llaman versiones, plataformas nuevas, ediciones y información sobre un videojuego o keys online.
